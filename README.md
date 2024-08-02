@@ -7,7 +7,7 @@ Simple image gallary with beutifull UI created using Next JS
 
 ## Features
 
-* Beutifull UI
+* Beautiful UI
 * LightBox Feature
 * Pagination Feature
 * Search Functionality
