@@ -1,9 +1,8 @@
-
-## Image-Gallery
+## PicAura
 
 Simple image gallary with beutifull UI created using Next JS
 
-[Click Here to see Live Website](https://image-gallery-updated.vercel.app/)  
+[Click Here to see Live Website](https://picaura.vercel.app/)  
 
 ## Features
 
