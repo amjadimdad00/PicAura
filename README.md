@@ -1,20 +1,19 @@
-## PicAura
+## PicAura 📸
 
-Simple image gallary with beutifull UI created using Next JS
+Simple image gallery with beautiful UI created using Next JS ✨
 
-[Click Here to see Live Website](https://picaura.vercel.app/)  
+[Click Here to see Live Website 🌐](https://picaura.vercel.app/)  
 
-## Features
+## Features 🚀
 
-* Beautiful UI
-* LightBox Feature
-* Pagination Feature
-* Search Functionality
-* Responsive design
+* Beautiful UI 🌟
+* LightBox Feature 🖼️
+* Pagination Feature 📄
+* Search Functionality 🔍
+* Responsive design 📱
 
 
 ## Screenshots
-
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/113746515/235039158-a5731a88-5c0c-4623-be9e-83440326507f.png)
 
@@ -26,4 +25,3 @@ Simple image gallary with beutifull UI created using Next JS
 
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/113746515/235039782-a3ee06cc-4bc0-4a17-af57-118871e371a1.png)
-
